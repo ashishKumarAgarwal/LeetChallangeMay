@@ -3,7 +3,7 @@ using NUnit.Framework;
 
 namespace LeetChallengeMayTest.May1FirstBadVersionTest
 {
-    public class Tests
+    public class May1FirstBadVersionTest
     {
         [Test]
         public void FirstBadVersion_Should_Return_FirstBadVersion()
