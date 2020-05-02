@@ -1,2 +1,2 @@
-# LeetChallangeMay
-LeetChallangeMay
+# LeetChallengeMay
+LeetChallengeMay
