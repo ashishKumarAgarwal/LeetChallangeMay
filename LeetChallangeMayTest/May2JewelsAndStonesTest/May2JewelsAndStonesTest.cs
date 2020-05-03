@@ -1,4 +1,4 @@
-using LeetChallengeMay.May1FirstBadVersion;
+using LeetChallengeMay.May2JewelsAndStones;
 using NUnit.Framework;
 
 namespace LeetChallengeMayTest.May2JewelsAndStonesTest
